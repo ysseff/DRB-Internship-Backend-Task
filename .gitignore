@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+npm-debug.log*
+yarn-error.log
+package-lock.json
+pnpm-lock.yaml
+
+/database/*.sqlite
+/database/*.db
+/database/*.sqlite3
+
+.env
